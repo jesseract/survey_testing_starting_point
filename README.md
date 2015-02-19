@@ -13,9 +13,10 @@ Unit tests. Create at least one test to ensure each of the following:
 Controller tests. Create at least one test to ensure each of the following:
   -test in controller
 
--that a get request returns a success response (e.g. that a page loads successfully)
--that the right number of a certain element exists on a page (perhaps test that the right number of questions show up when attempting to take a survey)
--that an expected template is rendered
++that a get request returns a success response (e.g. that a page loads successfully)
++that the right number of a certain element exists on a page (perhaps test that the right number of questions show up when attempting to take a survey)
++that an expected template is rendered
+
 -that an expected redirect actually occurs
 
 Integration tests. Create at least one test to ensure that:
