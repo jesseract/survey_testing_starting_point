@@ -7,9 +7,8 @@ Unit tests. Create at least one test to ensure each of the following:
 
 +that your fixtures ran (this will require you to write at least one fixture).
 +that an unsatisfied validation will prevent a record from saving.
-
--that a successful save changes the number of records in the database.
--that one of the six SQL/AREL methods we created on a model last night runs properly.
++that a successful save changes the number of records in the database.
++that one of the six SQL/AREL methods we created on a model last night runs properly.
 
 Controller tests. Create at least one test to ensure each of the following:
   -test in controller

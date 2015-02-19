@@ -10,5 +10,8 @@ class SurveyTest < ActiveSupport::TestCase
     end
   end
 
+  test "find survey names and associated emails" do
+    assert_equal 2, Survey.all_with_author_emails.length
+  end
 
 end
